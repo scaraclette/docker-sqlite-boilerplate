@@ -22,8 +22,12 @@ sqlite3
 docker-compose down
 ```
 
+***
+
 ## Tutorial for simple database
 https://www.sqlitetutorial.net/sqlite-sample-database/ src already contains chinook.db or sample database. Run database in bash on env directory.
 ```
 sqlite3 chinook.db
 ```
+***
+
